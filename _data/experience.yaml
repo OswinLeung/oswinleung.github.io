@@ -1,0 +1,13 @@
+experiences:
+
+- place: "University of Southern California"
+  time: "Sep 2023 - present"
+  title: "Ph.D. Student"
+  subtitle: "Electric and Computer Engineering"
+  category: "school"
+
+- place: "Nankai University"
+  time: "Sep 2019 -Jul 2023"
+  title: "B.S. Student"
+  subtitle: "Physics"
+  category: "school"
