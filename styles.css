@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f4;
+}
+header, nav, section, footer {
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    border: 1px solid #ccc;
+}
