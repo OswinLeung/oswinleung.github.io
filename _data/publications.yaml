@@ -9,28 +9,28 @@ papers:
 
   - title: "VCSEL Optical Neural Networks for High-throughput AI Training"
     authors: "<b>Yuanhao Liang</b>, James Wang, Xinyi Ren, . . . , and Zaijun Chen."
-    venue: "Sumbitted to CLEO, 2025."
+    venue: "CLEO, 2025."
     # paper_pdf: "/assets/publications/2024_supernotes/paper.pdf"
     # code: "https://github.com/saveski-lab/supernotes"
     selected: y
 
   - title: "Scalable, Low-energy Homodyne Computing Crossbar based on TFLN and SiN/Si Photonics"
     authors: "Kaiwen Xue, Lian Zhou, . . . , <b>Yuanhao Liang</b>, . . . , and Zaijun Chen."
-    venue: "Sumbitted to CLEO, 2025."
+    venue: "CLEO, 2025."
     # paper_pdf: "/assets/publications/2024_supernotes/paper.pdf"
     # code: "https://github.com/saveski-lab/supernotes"
     selected: y
 
   - title: "Single-shot in-sensor optical spectral AI processing"
     authors: "Yuan Li, Lian Zhou, . . . , <b>Yuanhao Liang</b>, . . . , and Zaijun Chen."
-    venue: "Sumbitted to CLEO, 2025."
+    venue: "CLEO, 2025."
     # paper_pdf: "/assets/publications/2024_supernotes/paper.pdf"
     # code: "https://github.com/saveski-lab/supernotes"
     selected: y
 
   - title: "Intrinsic Frequency Noise of the Thin Film Lithium Niobate Platforms"
     authors: "Ran Yin, Yue Yu, . . . , <b>Yuanhao Liang</b>, . . . , and Mengjie Yu."
-    venue: "Sumbitted to CLEO, 2025."
+    venue: "CLEO, 2025."
     # paper_pdf: "/assets/publications/2024_supernotes/paper.pdf"
     # code: "https://github.com/saveski-lab/supernotes"
     selected: y
